@@ -14,6 +14,7 @@ Alpha 提醒
 AI 模型不随软件内置，需要在软件里配置 API 或本地 OpenAI-compatible 模型服务。
 未签名 Alpha EXE 可能触发 Windows 安全提示。
 欢迎反馈问题、建议和吐槽：support@wuuniverse.com
+
 WuUniverse 0.1 Alpha
 
 WuUniverse 0.1 Alpha is an early test release designed to validate our core experiences: AI Genesis, Semantic Gravity, Nebula Clustering, Cognitive Maintenance, and a local-first Knowledge Universe.
