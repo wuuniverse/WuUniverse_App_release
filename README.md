@@ -65,7 +65,7 @@ Along the way, I took countless detours and paid an expensive tuition in wasted 
 
 This grand vision of "limitless roaming" is exactly like when parents constantly tell us, "It's for your own good." They know exactly why they are saying it, but they can't explain the underlying mechanics clearly to their children. As a result, all we hear is a heavy, abstract phrase, leaving us feeling lost and without direction. Wu Universe refuses to let you drift aimlessly in the abyss. What we aim to do, through our gravity engine and celestial architecture, is to provide you with an answer that is just within reach if you stretch out your hand.
 
-Today, this universe finally arrives in its Beta form. It undoubtedly still has rough edges and uncharted singularities, but I sincerely hope you will love this starfield. Please do not hesitate to share your critiques and feedback. Welcome to Wu Universe.
+Today, this universe finally arrives in its alpha form. It undoubtedly still has rough edges and uncharted singularities, but I sincerely hope you will love this starfield. Please do not hesitate to share your critiques and feedback. Welcome to Wu Universe.
 
 Core Features: Rewriting the Physics of Cognition
 🌌 4D Cognitive Topology
