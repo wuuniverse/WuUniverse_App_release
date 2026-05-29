@@ -2,6 +2,8 @@ WuUniverse 0.1 Alpha
 
 吾星域 0.1 Alpha 是早期测试版，用来验证核心体验：AI 创世、语义引力、星云归类、认知维护和本地优先的知识宇宙。
 
+我知道，我明白。这软件怎么连个新手教程都没有；当你拿到个新玩具的时候请保持你的好奇心，它会给你你想要的。（这只是我匆忙上架的一个借口。）
+
 下载与运行
 
 下载 WuUniverse-0.1.0-alpha-windows.zip
@@ -18,6 +20,9 @@ AI 模型不随软件内置，需要在软件里配置 API 或本地 OpenAI-comp
 WuUniverse 0.1 Alpha
 
 WuUniverse 0.1 Alpha is an early test release designed to validate our core experiences: AI Genesis, Semantic Gravity, Nebula Clustering, Cognitive Maintenance, and a local-first Knowledge Universe.
+
+I know, I get it. How does this software not even have a beginner tutorial? When you get a new toy, keep your curiosity alive—it will give you what you’re looking for.
+(This is just my excuse for rushing it onto the store.)
 
 Download & Run
 Download WuUniverse-0.1.0-alpha-windows.zip
